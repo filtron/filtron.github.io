@@ -37,7 +37,7 @@ tags = ["syntax", "code"]
 
 *  \biblabel{Tronarp2019a}{Tronarp et al. (2019a)} **F. Tronarp**, T. Karvonen, and S. Särkkä (2019). **Student’s -Filters for Noise Scale Estimation**. IEEE, Signal Processing Letters 26 (2) 2019. **[[paper]](https://ieeexplore.ieee.org/abstract/document/8606947)**
 
-*  \biblabel{Tronarp2018a}{Tronarp et al. (2018a)} **F. Tronarp**, Á. F. García-Fernández, and S. Särkkä (2018). **Iterative Filtering and Smoothing In Non-Linear and Non-Gaussian Systems Using Conditional Moments**. IEEE, Signal Processing Letters 25 (3). **[[paper]](hhttps://ieeexplore.ieee.org/abstract/document/8260875)**
+*  \biblabel{Tronarp2018a}{Tronarp et al. (2018a)} **F. Tronarp**, Á. F. García-Fernández, and S. Särkkä (2018). **Iterative Filtering and Smoothing In Non-Linear and Non-Gaussian Systems Using Conditional Moments**. IEEE, Signal Processing Letters 25 (3). **[[paper]](https://ieeexplore.ieee.org/abstract/document/8260875)**
 
 
 
@@ -48,7 +48,7 @@ tags = ["syntax", "code"]
 
 * \biblabel{Bosch2022}{Bosch et al. (2022)} N. Bosch, **F. Tronarp**, and P. Hennig (2022). **Pick-and-Mix Information Operators for Probabilistic ODE Solvers**. The 25th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2110.10770)** **[[paper]](https://proceedings.mlr.press/v151/bosch22a.html)** 
 
-* \biblabel{Bosch2021}{Bosch et al. (2021)} N. Bosch, P. Hennig, and **F. Tronarp** (2021). **Calibrated Adaptive Probabilistic ODE Solvers**. The 24th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://https://arxiv.org/abs/2012.08202)** **[[paper]](http://proceedings.mlr.press/v130/bosch21a.html)** 
+* \biblabel{Bosch2021}{Bosch et al. (2021)} N. Bosch, P. Hennig, and **F. Tronarp** (2021). **Calibrated Adaptive Probabilistic ODE Solvers**. The 24th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2012.08202)** **[[paper]](http://proceedings.mlr.press/v130/bosch21a.html)** 
 
 * \biblabel{Zhao2020}{Zhao et al. (2020)} Z. Zhao, **F. Tronarp**, R. Hostettler, and S. Särkkä (2020). **State-Space Gaussian Process for Drift Estimation in Stochastic Differential Equations**. In proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP). **[[paper]](https://ieeexplore.ieee.org/abstract/document/9054472)** 
 
