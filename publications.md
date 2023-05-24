@@ -14,6 +14,9 @@ tags = ["syntax", "code"]
 
 * \biblabel{Karvonen2021}{Karvonen et al. (2021)} T. Karvonen, J. Cockayne, **F. Tronarp** and S. Särkkä (2021). **A probabilistic Taylor expansion with applications in filtering and differential equations**. **[[arXiv]](https://arxiv.org/abs/2102.00877)**
 
+* \biblabel{Subramaniyam2020a}{Subramaniyam et al. (2020a)}  N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen. **Joint estimation of neural sources and their functional connections from MEG data.** **[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.10.04.325563v1)**
+
+
 
 # Journal papers 
 

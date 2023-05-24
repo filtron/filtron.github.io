@@ -1,9 +1,9 @@
 
-# Short bio 
+# Biography
 
-Filip Tronarp received a Master of Science degree in Engineering Mathematics from Lund University, Lund, Sweden in 2016,  
-and a Doctor of Science (tech) degree in Automation, Systems and Control Engineering, Aalto University, Finland, 2020. 
-Afterwards he worked as a post-doctoral researcher with the [Methods of Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/) group at University of Tübingen, before receiving his Assistant Professorship appointment with the [Centre for Mathematical Sciences](https://www.maths.lu.se/english/) at Lund University. 
+Filip Tronarp received a Master of Science degree in Engineering Mathematics from Lund University in 2016,  
+and a Doctor of Science (tech) degree in Automation, Systems and Control Engineering, Aalto University,  2020. 
+Afterwards he worked as a post-doctoral researcher with the [Methods of Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/) group at University of Tübingen until 2023, when he received his Assistant Professorship appointment with the [Centre for Mathematical Sciences](https://www.maths.lu.se/english/) at Lund University. 
 His research interest pertains to modelling and inference in stochastic systems, and applications thereof.  
 
 # Research agenda 
