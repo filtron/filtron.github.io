@@ -10,7 +10,9 @@ tags = ["syntax", "code"]
 
 # Working papers 
 
-* \biblabel{Tronarp2022a}{Tronarp et al. (2020a)} **F. Tronarp** and T. Karvonen (2022). **_Orthonormal expansions for translation-invariant kernels._** **[[arXiv]](https://arxiv.org/abs/2206.08648)**
+* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** **[[arXiv]](https://arxiv.org/abs/2305.14978)**
+
+* \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2022). **_Orthonormal expansions for translation-invariant kernels._** **[[arXiv]](https://arxiv.org/abs/2206.08648)**
 
 * \biblabel{Karvonen2021}{Karvonen et al. (2021)} T. Karvonen, J. Cockayne, **F. Tronarp** and S. Särkkä (2021). **_A probabilistic Taylor expansion with applications in filtering and differential equations_**. **[[arXiv]](https://arxiv.org/abs/2102.00877)**
 
