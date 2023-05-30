@@ -21,6 +21,8 @@
 
 * **Research assistant** with the Department of Electrical Engineering and Automation, Aalto University, January 2016 through May 2016.
 
+* **Teaching assistant** with the Centre for Mathematical Sciences, Lund University, on a course by course basis, September 2014 through October 2015.
+
 ## Internships 
 
 * **Software developer** at Ericcson AB, Linköping, Sweden, June 10 2013 through August 23 2013. 
