@@ -31,14 +31,22 @@
 
 ### Courses 
 
-* **Lecturer, developer, and examiner**, Time Series (second cycle, 6 ECTS).
-* **Teaching assistant** (exercise sessions, computer labs); Non-linear Filtering and Parameter Estimation, Basics of Sensor Fusion, Markov processes, Stationary Stochastic Processes, Mathematical Statistics.
+* **Lecturer, developer, and examiner**, Time Series (second cycle, 6 ECTS), University of Tübingen. 
+* **Teaching assistant** 
+    * Non-linear Filtering and Parameter Estimation, Basics of Sensor Fusion, Aalto University. 
+    * Markov processes, Stationary Stochastic Processes, Mathematical Statistics, Lund University. 
 
-### Thesis supervision 
+### Thesis supervision and examination 
 
-* Nathanael Bosch, (PhD candidate at University of Tübingen).
-* Jonathan Schmidt, (PhD candidate at University of Tübingen).
-* Dingling Yao, Uncertainty Propagation in Probabilistic Ordinary Differential Equation Solvers, (MSc, at University of Tübingen).
-* Lingying Jiang, Implementation of a GPU-Based Kalman Filter in CUDA, (MSc at Aalto University).
-* Siyi Zheng, Developing a Cloud-based Solution for Cardiographic Data Collection and Processing, (MSc at Aalto University).
-* Samu Kallio, Mobile orientation tracking with non-linear Kalman filters, (BSc at Aalto University).
+## Thesis supervison 
+
+* Nathanael Bosch, PhD candidate at University of Tübingen.
+* Jonathan Schmidt, PhD candidate at University of Tübingen.
+* Dingling Yao, _Uncertainty Propagation in Probabilistic Ordinary Differential Equation Solvers_, MSc, at University of Tübingen.
+* Lingying Jiang, _Implementation of a GPU-Based Kalman Filter in CUDA_, MSc at Aalto University.
+* Siyi Zheng, _Developing a Cloud-based Solution for Cardiographic Data Collection and Processing_, MSc at Aalto University.
+* Samu Kallio, _Mobile orientation tracking with non-linear Kalman filters_, BSc at Aalto University.
+
+## Thesis examination 
+
+* Marcus Gehrmann,  _Statistical reconstruction of fire spread and fire scar probability using a Discrete Markov Random Field mixture model_, MSc at Lund University. 
