@@ -9,7 +9,9 @@ tags = ["syntax", "code", "image"]
 
 # Talks 
 
-* The Future of WASP Workshop, Stockholm, 2022.
+* The Future of WASP Workshop, Stockholm, 2023.
+
+* Department of Mechanical and Process Engineering, ETH Zurich, Switzerland, 2023. 
 
 * Gaussian Process Summer School, Workshop on Probabilistic Numerics, Sheffield, England, 2022.
 
@@ -27,4 +29,8 @@ tags = ["syntax", "code", "image"]
 
 * Minisymposium on Probabilistic Numerics and Kernel-Based Methods at Approximation Theory 16, USA, Nashville, 2019. 
 
+* Max Planck Institute for Intelligent Systems, Tübingen, Germany. 2018. 
+
 * DELTA spring workshop, Tampere, Finland, 2018.
+
+* Department of Cybernetics, University of West Bohemia, Plzeň, Czech Republic, 2017.
