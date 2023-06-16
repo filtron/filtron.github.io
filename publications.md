@@ -10,6 +10,8 @@ tags = ["syntax", "code"]
 
 # Working papers 
 
+* \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** **[[arXiv]](https://arxiv.org/abs/2306.07774)**
+
 * \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** **[[arXiv]](https://arxiv.org/abs/2305.14978)**
 
 * \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2022). **_Orthonormal expansions for translation-invariant kernels._** **[[arXiv]](https://arxiv.org/abs/2206.08648)**

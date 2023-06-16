@@ -15,6 +15,8 @@ with a clear focus on dynamical systems. Here are some of the topics I am curren
 
 * Approximate inference in high-dimensional systems. 
 
+* Numerical algorithms for state estimation. 
+
 * [Probabilistic numerics](https://www.probabilistic-numerics.org/). 
 
 

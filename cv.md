@@ -47,4 +47,6 @@
 
 ### Thesis examination 
 
+* Jonatan Persson, _Robust Jump Models with Feature Selection_, MSc at Lund University. 
+
 * Marcus Gehrmann,  _Statistical reconstruction of fire spread and fire scar probability using a Discrete Markov Random Field mixture model_, MSc at Lund University. 
