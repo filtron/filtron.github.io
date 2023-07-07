@@ -1,3 +1,8 @@
+# Open positions 
+
+I am currently recruiting a PhD candidate in mathematical statistics with focus on scientific machine learning.
+
+**[Apply here](https://lu.varbi.com/en/what:job/jobID:639272/)** 
 
 # Biography
 
