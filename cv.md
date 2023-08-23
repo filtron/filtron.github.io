@@ -13,7 +13,7 @@
 
 ## Academic positions 
 
-* **Assistant professor** with the Centre for Mathematical Sciences, Lund University, since April 2023. 
+* **Associate Senior Lecturer (Assistant professor)** with the Centre for Mathematical Sciences, Lund University, since April 2023. 
 
 * **Postdoctoral researcher** with the Department of Computer Science, University of Tübingen, February 2020 through February 2023. 
 
