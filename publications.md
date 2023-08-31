@@ -51,7 +51,10 @@ tags = ["syntax", "code"]
 
 # Conference papers 
 
-* \biblabel{Tronarp2022}{Tronarp et al. (2022)}  **F. Tronarp**, N. Bosch, and Philipp Hennig (2022). **_Fenrir: Physics-Enhanced Regression for Initial Value Problems_**. The Thirty-ninth International Conference on Machine Learning. **[[arXiV]](https://arxiv.org/abs/2202.01287)** **[[DOI]](https://proceedings.mlr.press/v162/tronarp22a)** 
+* \biblabel{Tronarp2022}{Tronarp et al. (2022b)}  **F. Tronarp**, N. Bosch, and Philipp Hennig (2022). **_Fenrir: Physics-Enhanced Regression for Initial Value Problems_**. The Thirty-ninth International Conference on Machine Learning. **[[arXiV]](https://arxiv.org/abs/2202.01287)** **[[DOI]](https://proceedings.mlr.press/v162/tronarp22a)** 
+
+* \biblabel{Tronarp2022}{Tronarp et al. (2022a)}  **F. Tronarp** and S. Särkkä (2022). **_Continuous-discrete filtering and smoothing on submanifolds of Euclidean space_**. 25th International Conference on Information Fusion (FUSION). **[[arXiV]](https://arxiv.org/abs/2004.09335)** **[[DOI]](https://ieeexplore.ieee.org/abstract/document/9841226)** 
+
 
 * \biblabel{Bosch2022}{Bosch et al. (2022)} N. Bosch, **F. Tronarp**, and P. Hennig (2022). **_Pick-and-Mix Information Operators for Probabilistic ODE Solvers_**. The 25th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2110.10770)** **[[DOI]](https://proceedings.mlr.press/v151/bosch22a)** 
 
