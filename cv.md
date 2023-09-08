@@ -47,6 +47,6 @@
 
 ### Thesis examination 
 
+* Lukas Andersson, _Feature selection on the Nordpool energy market_, MSc at Lund University.
 * Jonatan Persson, _Robust Jump Models with Feature Selection_, MSc at Lund University. 
-
 * Marcus Gehrmann,  _Statistical reconstruction of fire spread and fire scar probability using a Discrete Markov Random Field mixture model_, MSc at Lund University. 
