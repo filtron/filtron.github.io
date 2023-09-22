@@ -10,10 +10,6 @@ tags = ["syntax", "code"]
 
 # Working papers 
 
-* \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** **[[arXiv]](https://arxiv.org/abs/2306.07774)**
-
-* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** **[[arXiv]](https://arxiv.org/abs/2305.14978)**
-
 * \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2022). **_Orthonormal expansions for translation-invariant kernels._** **[[arXiv]](https://arxiv.org/abs/2206.08648)**
 
 * \biblabel{Subramaniyam2020a}{Subramaniyam et al. (2020a)}  N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2020). **_Joint estimation of neural sources and their functional connections from MEG data._** **[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.10.04.325563v1)**
@@ -51,10 +47,13 @@ tags = ["syntax", "code"]
 
 # Conference papers 
 
+* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** To appear in Advances i Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2305.14978)**
+
+* \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** To appear in Advances i Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2306.07774)**
+
 * \biblabel{Tronarp2022}{Tronarp et al. (2022b)}  **F. Tronarp**, N. Bosch, and Philipp Hennig (2022). **_Fenrir: Physics-Enhanced Regression for Initial Value Problems_**. The Thirty-ninth International Conference on Machine Learning. **[[arXiV]](https://arxiv.org/abs/2202.01287)** **[[DOI]](https://proceedings.mlr.press/v162/tronarp22a)** 
 
 * \biblabel{Tronarp2022}{Tronarp et al. (2022a)}  **F. Tronarp** and S. Särkkä (2022). **_Continuous-discrete filtering and smoothing on submanifolds of Euclidean space_**. 25th International Conference on Information Fusion (FUSION). **[[arXiV]](https://arxiv.org/abs/2004.09335)** **[[DOI]](https://ieeexplore.ieee.org/abstract/document/9841226)** 
-
 
 * \biblabel{Bosch2022}{Bosch et al. (2022)} N. Bosch, **F. Tronarp**, and P. Hennig (2022). **_Pick-and-Mix Information Operators for Probabilistic ODE Solvers_**. The 25th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2110.10770)** **[[DOI]](https://proceedings.mlr.press/v151/bosch22a)** 
 
