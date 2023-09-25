@@ -46,9 +46,9 @@ tags = ["syntax", "code"]
 
 # Conference papers 
 
-* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** To appear in Advances i Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2305.14978)**
+* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** To appear in Advances in Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2305.14978)**
 
-* \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** To appear in Advances i Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2306.07774)**
+* \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** To appear in Advances in Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2306.07774)**
 
 * \biblabel{Tronarp2022}{Tronarp et al. (2022b)}  **F. Tronarp**, N. Bosch, and Philipp Hennig (2022). **_Fenrir: Physics-Enhanced Regression for Initial Value Problems_**. The Thirty-ninth International Conference on Machine Learning. **[[arXiV]](https://arxiv.org/abs/2202.01287)** **[[DOI]](https://proceedings.mlr.press/v162/tronarp22a)** 
 
