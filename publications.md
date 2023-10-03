@@ -10,7 +10,7 @@ tags = ["syntax", "code"]
 
 # Working papers 
 
-* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2023). **_Parallel-in-Time Probabililstic Numerical ODE Solvers ._** **[[arXiv]]()**
+* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2023). **_Parallel-in-Time Probabililstic Numerical ODE Solvers ._** **[[arXiv]](https://arxiv.org/abs/2310.01145)**
 
 * \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2022). **_Orthonormal expansions for translation-invariant kernels._** **[[arXiv]](https://arxiv.org/abs/2206.08648)**
 
