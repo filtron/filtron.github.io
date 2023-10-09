@@ -18,7 +18,7 @@ tags = ["syntax", "code"]
 
 # Journal papers 
 
-* \biblabel{Karvonen2021}{Karvonen et al. (2021)} T. Karvonen, J. Cockayne, **F. Tronarp** and S. Särkkä (2023). **_A probabilistic Taylor expansion with applications in filtering and differential equations_**. Accepted for publication in Transactions on Machine Learning Research (TMLR). **[[arXiv]](https://arxiv.org/abs/2102.00877)**
+* \biblabel{Karvonen2021}{Karvonen et al. (2021)} T. Karvonen, J. Cockayne, **F. Tronarp** and S. Särkkä (2023). **_A probabilistic Taylor expansion with applications in filtering and differential equations_**. Transactions on Machine Learning Research (TMLR). **[[arXiv]](https://arxiv.org/abs/2102.00877)** **[[DOI]](https://openreview.net/pdf?id=2TneniEIDB)**
 
 *  \biblabel{Tronarp2021a}{Tronarp et al. (2021a)} **F. Tronarp**, S. Särkkä, P. Hennig (2021). **_Bayesian ODE Solvers: The Maximum A Posteriori Estimate_**. Statistics and Computing. **[[arXiV]](https://arxiv.org/abs/2004.00623)** **[[DOI]](https://doi.org/10.1007/s11222-021-09993-7)**
 
