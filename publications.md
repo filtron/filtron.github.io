@@ -10,7 +10,7 @@ tags = ["syntax", "code"]
 
 # Working papers 
 
-* \biblabel{Tronarp2023a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp**. **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
+* \biblabel{Tronarp2023a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
 
 * \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2023). **_Parallel-in-Time Probabililstic Numerical ODE Solvers ._** **[[arXiv]](https://arxiv.org/abs/2310.01145)**
