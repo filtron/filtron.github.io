@@ -8,7 +8,9 @@ tags = ["syntax", "code"]
 +++
 
 
-# Working papers 
+# Working papers
+
+* \biblabel{Tronarp2023a}{Stillfjord et al. (2023a)} A. Lahr, **F. Tronarp**, N. Bosch, J. Schmidt, P. Hennig, M. N. Zeilinger (2023). **_Probabilistic ODE Solvers for Integration Error-Aware Model Predictive Control._** **[[arXiv]](https://arxiv.org/abs/2401.17731)**
 
 * \biblabel{Tronarp2023a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
@@ -19,7 +21,7 @@ tags = ["syntax", "code"]
 
 * \biblabel{Subramaniyam2020a}{Subramaniyam et al. (2020a)}  N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2020). **_Joint estimation of neural sources and their functional connections from MEG data._** **[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.10.04.325563v1)**
 
-# Journal papers 
+# Journal papers
 
 * \biblabel{Karvonen2021}{Karvonen et al. (2021)} T. Karvonen, J. Cockayne, **F. Tronarp** and S. Särkkä (2023). **_A probabilistic Taylor expansion with applications in filtering and differential equations_**. Transactions on Machine Learning Research (TMLR). **[[arXiv]](https://arxiv.org/abs/2102.00877)** **[[DOI]](https://openreview.net/pdf?id=2TneniEIDB)**
 
@@ -49,46 +51,46 @@ tags = ["syntax", "code"]
 
 
 
-# Conference papers 
+# Conference papers
 
 * \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** To appear in Advances in Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2305.14978)**
 
 * \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** To appear in Advances in Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2306.07774)**
 
-* \biblabel{Tronarp2022}{Tronarp et al. (2022b)}  **F. Tronarp**, N. Bosch, and Philipp Hennig (2022). **_Fenrir: Physics-Enhanced Regression for Initial Value Problems_**. The Thirty-ninth International Conference on Machine Learning. **[[arXiV]](https://arxiv.org/abs/2202.01287)** **[[DOI]](https://proceedings.mlr.press/v162/tronarp22a)** 
+* \biblabel{Tronarp2022}{Tronarp et al. (2022b)}  **F. Tronarp**, N. Bosch, and Philipp Hennig (2022). **_Fenrir: Physics-Enhanced Regression for Initial Value Problems_**. The Thirty-ninth International Conference on Machine Learning. **[[arXiV]](https://arxiv.org/abs/2202.01287)** **[[DOI]](https://proceedings.mlr.press/v162/tronarp22a)**
 
-* \biblabel{Tronarp2022}{Tronarp et al. (2022a)}  **F. Tronarp** and S. Särkkä (2022). **_Continuous-discrete filtering and smoothing on submanifolds of Euclidean space_**. 25th International Conference on Information Fusion (FUSION). **[[arXiV]](https://arxiv.org/abs/2004.09335)** **[[DOI]](https://ieeexplore.ieee.org/abstract/document/9841226)** 
+* \biblabel{Tronarp2022}{Tronarp et al. (2022a)}  **F. Tronarp** and S. Särkkä (2022). **_Continuous-discrete filtering and smoothing on submanifolds of Euclidean space_**. 25th International Conference on Information Fusion (FUSION). **[[arXiV]](https://arxiv.org/abs/2004.09335)** **[[DOI]](https://ieeexplore.ieee.org/abstract/document/9841226)**
 
-* \biblabel{Bosch2022}{Bosch et al. (2022)} N. Bosch, **F. Tronarp**, and P. Hennig (2022). **_Pick-and-Mix Information Operators for Probabilistic ODE Solvers_**. The 25th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2110.10770)** **[[DOI]](https://proceedings.mlr.press/v151/bosch22a)** 
+* \biblabel{Bosch2022}{Bosch et al. (2022)} N. Bosch, **F. Tronarp**, and P. Hennig (2022). **_Pick-and-Mix Information Operators for Probabilistic ODE Solvers_**. The 25th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2110.10770)** **[[DOI]](https://proceedings.mlr.press/v151/bosch22a)**
 
-* \biblabel{Bosch2021}{Bosch et al. (2021)} N. Bosch, P. Hennig, and **F. Tronarp** (2021). **_Calibrated Adaptive Probabilistic ODE Solvers_**. The 24th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2012.08202)** **[[DOI]](http://proceedings.mlr.press/v130/bosch21a)** 
+* \biblabel{Bosch2021}{Bosch et al. (2021)} N. Bosch, P. Hennig, and **F. Tronarp** (2021). **_Calibrated Adaptive Probabilistic ODE Solvers_**. The 24th International Conference on Artificial Intelligence and Statistics. **[[arXiV]](https://arxiv.org/abs/2012.08202)** **[[DOI]](http://proceedings.mlr.press/v130/bosch21a)**
 
-* \biblabel{Zhao2020}{Zhao et al. (2020)} Z. Zhao, **F. Tronarp**, R. Hostettler, and S. Särkkä (2020). **_State-Space Gaussian Process for Drift Estimation in Stochastic Differential Equations_**. In proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP). **[[DOI]](https://ieeexplore.ieee.org/abstract/document/9054472)** 
+* \biblabel{Zhao2020}{Zhao et al. (2020)} Z. Zhao, **F. Tronarp**, R. Hostettler, and S. Särkkä (2020). **_State-Space Gaussian Process for Drift Estimation in Stochastic Differential Equations_**. In proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP). **[[DOI]](https://ieeexplore.ieee.org/abstract/document/9054472)**
 
-* \biblabel{Tronarp2019b}{Tronarp et al. (2019b)} **F. Tronarp** and S. Särkkä (2019). **_Updates in Bayesian Filtering by Continuous Projections on a Manifold of Densities_**. In proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP). **[[DOI]](https://doi.org/10.1109/ICASSP.2019.8682279)** 
+* \biblabel{Tronarp2019b}{Tronarp et al. (2019b)} **F. Tronarp** and S. Särkkä (2019). **_Updates in Bayesian Filtering by Continuous Projections on a Manifold of Densities_**. In proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP). **[[DOI]](https://doi.org/10.1109/ICASSP.2019.8682279)**
 
-* \biblabel{Karvonen2019a}{Karvonen et al. (2019a)} T. Karvonen, **F. Tronarp**, and S. Särkkä (2019). **_Asymptotics of maximum likelihood parameter estimates for Gaussian processes: the Ornstein-Uhlenbeck prior_**. In proceedings of Machine learning in Signal Processing (MLSP). **[[DOI]](https://doi.org/10.1109/MLSP.2019.8918767)** 
+* \biblabel{Karvonen2019a}{Karvonen et al. (2019a)} T. Karvonen, **F. Tronarp**, and S. Särkkä (2019). **_Asymptotics of maximum likelihood parameter estimates for Gaussian processes: the Ornstein-Uhlenbeck prior_**. In proceedings of Machine learning in Signal Processing (MLSP). **[[DOI]](https://doi.org/10.1109/MLSP.2019.8918767)**
 
-* \biblabel{Gao2019b}{Gao et al. (2019b)}  R. Gao, **F. Tronarp**, and S. Särkkä (2019). **_Regularized State estimation and Parameter learning via augmented Lagrangian Kalman smoother method_**. In proceedings of Machine learning in Signal Processing (MLSP). **[[DOI]](https://doi.org/10.1109/MLSP.2019.8918821)** 
+* \biblabel{Gao2019b}{Gao et al. (2019b)}  R. Gao, **F. Tronarp**, and S. Särkkä (2019). **_Regularized State estimation and Parameter learning via augmented Lagrangian Kalman smoother method_**. In proceedings of Machine learning in Signal Processing (MLSP). **[[DOI]](https://doi.org/10.1109/MLSP.2019.8918821)**
 
-* \biblabel{Hostettler2019a}{Hostettler et al. (2019a)} R. Hostettler, **F. Tronarp**, and S. Särkkä (2019). **_Joint Calibration of Inertial Sensors and Magnetometers Using Von Mises-Fisher Filtering and Expectation Maximization_**. In Proceedings of the 22th International Conference on Information Fusion (FUSION). **[[DOI]](https://doi.org/10.23919/FUSION43075.2019.9011257)** 
+* \biblabel{Hostettler2019a}{Hostettler et al. (2019a)} R. Hostettler, **F. Tronarp**, and S. Särkkä (2019). **_Joint Calibration of Inertial Sensors and Magnetometers Using Von Mises-Fisher Filtering and Expectation Maximization_**. In Proceedings of the 22th International Conference on Information Fusion (FUSION). **[[DOI]](https://doi.org/10.23919/FUSION43075.2019.9011257)**
 
-* \biblabel{Tronarp2018a}{Tronarp et al. (2018a)} **F. Tronarp**, R. Hostettler, and S. Särkkä. **_Continuous-Discrete Von Mises-Fisher Filtering on $S^2$ for Reference Vector Tracking_**. In Proceedings of the 21th International Conference on Information Fusion (FUSION). **[[DOI]](https://doi.org/10.23919/ICIF.2018.8455299)** 
+* \biblabel{Tronarp2018a}{Tronarp et al. (2018a)} **F. Tronarp**, R. Hostettler, and S. Särkkä. **_Continuous-Discrete Von Mises-Fisher Filtering on $S^2$ for Reference Vector Tracking_**. In Proceedings of the 21th International Conference on Information Fusion (FUSION). **[[DOI]](https://doi.org/10.23919/ICIF.2018.8455299)**
 
-* \biblabel{Tronarp2018b}{Tronarp et al. (2018b)} **F. Tronarp** and S. Särkkä (2018). **_Non-Linear Continuous-Discrete Smoothing by Basis Function Expansions of Brownian Motion_**. In Proceedings of the 21th International Conference on Information Fusion (FUSION). **[[DOI]](https://doi.org/10.23919/ICIF.2018.8455493)** 
+* \biblabel{Tronarp2018b}{Tronarp et al. (2018b)} **F. Tronarp** and S. Särkkä (2018). **_Non-Linear Continuous-Discrete Smoothing by Basis Function Expansions of Brownian Motion_**. In Proceedings of the 21th International Conference on Information Fusion (FUSION). **[[DOI]](https://doi.org/10.23919/ICIF.2018.8455493)**
 
-* \biblabel{Tronarp2018c}{Tronarp et al. (2018c)} **F. Tronarp**, T. Karvonen, and S. Särkkä (2018). **_Mixture Representation of The Matérn Class with Applications in State Space Approximations and Bayesian Quadrature_**. In proceedings of Machine learning in Signal Processing (MLSP). **[[DOI]](https://doi.org/10.1109/MLSP.2018.8516992)** 
+* \biblabel{Tronarp2018c}{Tronarp et al. (2018c)} **F. Tronarp**, T. Karvonen, and S. Särkkä (2018). **_Mixture Representation of The Matérn Class with Applications in State Space Approximations and Bayesian Quadrature_**. In proceedings of Machine learning in Signal Processing (MLSP). **[[DOI]](https://doi.org/10.1109/MLSP.2018.8516992)**
 
-* \biblabel{Tronarp2018d}{Tronarp et al. (2018d)} **F. Tronarp**, N. P. Subramaniyam, S. Särkkä, and L. Parkkonen (2018). **_Tracking of dynamic functional connectivity from MEG data with Kalman filtering_**. In proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). **[[DOI]](https://doi.org/10.1109/EMBC.2018.8512456)** 
+* \biblabel{Tronarp2018d}{Tronarp et al. (2018d)} **F. Tronarp**, N. P. Subramaniyam, S. Särkkä, and L. Parkkonen (2018). **_Tracking of dynamic functional connectivity from MEG data with Kalman filtering_**. In proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). **[[DOI]](https://doi.org/10.1109/EMBC.2018.8512456)**
 
-* \biblabel{Hostettler2018a}{Hostettler et al. (2018a)} R. Hostettler, **F. Tronarp**, and S. Särkkä (2018). **_Modeling the drift function in stochastic differential equations using reduced rank Gaussian processes_**. In 18th IFAC Symposium on System Identification (SYSID), Stockholm, Sweden. **[[DOI]](https://doi.org/10.1016/j.ifacol.2018.09.137)** 
+* \biblabel{Hostettler2018a}{Hostettler et al. (2018a)} R. Hostettler, **F. Tronarp**, and S. Särkkä (2018). **_Modeling the drift function in stochastic differential equations using reduced rank Gaussian processes_**. In 18th IFAC Symposium on System Identification (SYSID), Stockholm, Sweden. **[[DOI]](https://doi.org/10.1016/j.ifacol.2018.09.137)**
 
-* \biblabel{Gao2018a}{Gao et al. (2018a)}  R. Gao, **F. Tronarp**, and S. Särkkä (2018). **_Combined Analysis-$l_1$ and Total Variation ADMM with Applications to MEG Brain Imaging and Signal Reconstruction_**. In Proceedings of European Signal Processing Conference (EUSIPCO). **[[DOI]](https://doi.org/10.23919/EUSIPCO.2018.8553122)** 
+* \biblabel{Gao2018a}{Gao et al. (2018a)}  R. Gao, **F. Tronarp**, and S. Särkkä (2018). **_Combined Analysis-$l_1$ and Total Variation ADMM with Applications to MEG Brain Imaging and Signal Reconstruction_**. In Proceedings of European Signal Processing Conference (EUSIPCO). **[[DOI]](https://doi.org/10.23919/EUSIPCO.2018.8553122)**
 
-* \biblabel{Pruher2017a}{Prüher et al. (2017a)} J. Prüher, **F. Tronarp**, T. Karvonen, O. Straka, and S. Särkkä (2017). **_Student-t Process Quadratures for Filtering of Non-linear Systems with Heavy-Tailed Noise_**. In Proceedings of the 20th International Conference on Information Fusion (FUSION). **[[arXiV]](https://arxiv.org/abs/1703.05189)** **[[DOI]](https://doi.org/10.23919/ICIF.2017.8009742)** 
+* \biblabel{Pruher2017a}{Prüher et al. (2017a)} J. Prüher, **F. Tronarp**, T. Karvonen, O. Straka, and S. Särkkä (2017). **_Student-t Process Quadratures for Filtering of Non-linear Systems with Heavy-Tailed Noise_**. In Proceedings of the 20th International Conference on Information Fusion (FUSION). **[[arXiV]](https://arxiv.org/abs/1703.05189)** **[[DOI]](https://doi.org/10.23919/ICIF.2017.8009742)**
 
-* \biblabel{Subramaniyam2017a}{Subramaniyam et al. (2017a)} N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2017). **_Expectation–maximization algorithm with a nonlinear Kalman smoother for MEG/EEG connectivity estimation_**. In Proceedings of the Joint Conference of European Medical and Biological Engineering Conference (EMBEC) and Nordic-Baltic Conference on Biomedical Engineering and Medical Physics (NBC). **[[DOI]](https://doi.org/10.1007/978-981-10-5122-7_191)** 
+* \biblabel{Subramaniyam2017a}{Subramaniyam et al. (2017a)} N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2017). **_Expectation–maximization algorithm with a nonlinear Kalman smoother for MEG/EEG connectivity estimation_**. In Proceedings of the Joint Conference of European Medical and Biological Engineering Conference (EMBEC) and Nordic-Baltic Conference on Biomedical Engineering and Medical Physics (NBC). **[[DOI]](https://doi.org/10.1007/978-981-10-5122-7_191)**
 
 * \biblabel{Karvonen2017a}{Karvonen et al. (2017a)} T. Karvonen, A. Solin, Á. F. García-Fernández, **F. Tronarp**, S. Särkkä and F.-H. Lin. **_Where is physiological noise lurking in $k$-space?_**. Proceedings of ISMRM 2017, Annual Meeting & Exhibition.
 
-*  \biblabel{Tronarp2016a}{Tronarp et al. (2016a)} **F. Tronarp**, R. Hostettler, and S. Särkkä. **_Sigma-Point Filtering for Non-linear Systems with Non-Additive Heavy-Tailed Noise_**. In Proceedings of the 19th International Conference on Information Fusion (FUSION). **[[DOI]](https://ieeexplore.ieee.org/abstract/document/7528109)** 
+*  \biblabel{Tronarp2016a}{Tronarp et al. (2016a)} **F. Tronarp**, R. Hostettler, and S. Särkkä. **_Sigma-Point Filtering for Non-linear Systems with Non-Additive Heavy-Tailed Noise_**. In Proceedings of the 19th International Conference on Information Fusion (FUSION). **[[DOI]](https://ieeexplore.ieee.org/abstract/document/7528109)**
