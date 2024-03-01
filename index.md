@@ -22,4 +22,5 @@ with a clear focus on dynamical systems. Here are some of the topics I am curren
 # Current PhD students
 
 * Sofia Kockum
+* Rahul Manavalan
 
