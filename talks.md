@@ -9,9 +9,11 @@ tags = ["syntax", "code", "image"]
 
 # Talks
 
+* Bayes@Lund, Lund, Sweden, 2024.
+
 * Mathematical Statistics Seminar, Lund, Sweden, 2024.
 
-* WASP Winter conference, Math-AI Cluster meeting, Norrköping, Sweden, 2023.
+* WASP Winter conference, Math-AI Cluster meeting, Norrköping, Sweden, 2024.
 
 * The Future of WASP Workshop, Stockholm, Sweden, 2023.
 
