@@ -10,8 +10,6 @@ tags = ["syntax", "code"]
 
 # Working papers
 
-* \biblabel{Tronarp2023a}{Stillfjord et al. (2023a)} A. Lahr, **F. Tronarp**, N. Bosch, J. Schmidt, P. Hennig, M. N. Zeilinger (2023). **_Probabilistic ODE Solvers for Integration Error-Aware Model Predictive Control._** **[[arXiv]](https://arxiv.org/abs/2401.17731)**
-
 * \biblabel{Tronarp2023a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
 
@@ -53,9 +51,11 @@ tags = ["syntax", "code"]
 
 # Conference papers
 
-* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** To appear in Advances in Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2305.14978)**
+* \biblabel{Tronarp2023a}{Lahr et al. (2024a)} A. Lahr, **F. Tronarp**, N. Bosch, J. Schmidt, P. Hennig, M. N. Zeilinger (2023). **_Probabilistic ODE Solvers for Integration Error-Aware Model Predictive Control._** To appear in 6th Annual Learning for Dynamics & Control Conference (L4DC), 2024. **[[arXiv]](https://arxiv.org/abs/2401.17731)**
 
-* \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** To appear in Advances in Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2306.07774)**
+* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, P. Hennig, and **F. Tronarp** (2023). **_Probabilistic Exponential Integrators._** Advances in Neural Information Processing Systems, 2023. **[[arXiv]](https://arxiv.org/abs/2305.14978)** **[[DOI]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7f64034009f4a5fa417a57e1a987c5cd-Abstract-Conference.html)**
+
+* \biblabel{Schmidt2023a}{Schmidt et al (2023a)} J. Schmidt,P. Hennig, J. Nick, **F. Tronarp** (2023). **_The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions._** Advances in Neural Information Processing Systems, 2023.  **[[arXiv]](https://arxiv.org/abs/2306.07774)** **[[DOI]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c14d902be45c72833018b2ccfac071e4-Abstract-Conference.html)**
 
 * \biblabel{Tronarp2022}{Tronarp et al. (2022b)}  **F. Tronarp**, N. Bosch, and Philipp Hennig (2022). **_Fenrir: Physics-Enhanced Regression for Initial Value Problems_**. The Thirty-ninth International Conference on Machine Learning. **[[arXiV]](https://arxiv.org/abs/2202.01287)** **[[DOI]](https://proceedings.mlr.press/v162/tronarp22a)**
 

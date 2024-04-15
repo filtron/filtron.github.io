@@ -9,6 +9,8 @@ tags = ["syntax", "code", "image"]
 
 # Talks
 
+* Probabilistic Numerics Spring School, Southampton, England, 2024.
+
 * Bayes@Lund, Lund, Sweden, 2024.
 
 * Mathematical Statistics Seminar, Lund, Sweden, 2024.
