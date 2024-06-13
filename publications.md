@@ -10,16 +10,17 @@ tags = ["syntax", "code"]
 
 # Working papers
 
-* \biblabel{Tronarp2023a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
+* \biblabel{Tronarp2024a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
 
 * \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2023). **_Parallel-in-Time Probabililstic Numerical ODE Solvers ._** **[[arXiv]](https://arxiv.org/abs/2310.01145)**
 
-* \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2022). **_Orthonormal expansions for translation-invariant kernels._** **[[arXiv]](https://arxiv.org/abs/2206.08648)**
 
 * \biblabel{Subramaniyam2020a}{Subramaniyam et al. (2020a)}  N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2020). **_Joint estimation of neural sources and their functional connections from MEG data._** **[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.10.04.325563v1)**
 
 # Journal papers
+
+* \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2024). **_Orthonormal expansions for translation-invariant kernels._** Journal of Approximation Theory, to appear. **[[arXiv]](https://arxiv.org/abs/2206.08648)**
 
 * \biblabel{Karvonen2021}{Karvonen et al. (2021)} T. Karvonen, J. Cockayne, **F. Tronarp** and S. Särkkä (2023). **_A probabilistic Taylor expansion with applications in filtering and differential equations_**. Transactions on Machine Learning Research (TMLR). **[[arXiv]](https://arxiv.org/abs/2102.00877)** **[[DOI]](https://openreview.net/pdf?id=2TneniEIDB)**
 
@@ -50,6 +51,8 @@ tags = ["syntax", "code"]
 
 
 # Conference papers
+
+* \biblabel{Tronarp2024b}{Tronarp et al. (2024b)} **F. Tronarp** (2024). **_Numerically robust square root implementations of statistical linear regression filters and smoothers._** To appear in 32nd European Signal Processing Conference (EUSIPCO 2024). **[[arXiv]](https://arxiv.org/abs/2406.05188)**
 
 * \biblabel{Tronarp2023a}{Lahr et al. (2024a)} A. Lahr, **F. Tronarp**, N. Bosch, J. Schmidt, P. Hennig, M. N. Zeilinger (2023). **_Probabilistic ODE Solvers for Integration Error-Aware Model Predictive Control._** To appear in 6th Annual Learning for Dynamics & Control Conference (L4DC), 2024. **[[arXiv]](https://arxiv.org/abs/2401.17731)**
 
