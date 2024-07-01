@@ -13,14 +13,13 @@ tags = ["syntax", "code"]
 * \biblabel{Tronarp2024a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
 
-* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2023). **_Parallel-in-Time Probabililstic Numerical ODE Solvers ._** **[[arXiv]](https://arxiv.org/abs/2310.01145)**
-
-
 * \biblabel{Subramaniyam2020a}{Subramaniyam et al. (2020a)}  N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2020). **_Joint estimation of neural sources and their functional connections from MEG data._** **[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.10.04.325563v1)**
 
 # Journal papers
 
-* \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2024). **_Orthonormal expansions for translation-invariant kernels._** Journal of Approximation Theory, to appear. **[[arXiv]](https://arxiv.org/abs/2206.08648)**
+* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2024). **_Parallel-in-Time Probabililstic Numerical ODE Solvers ._** Journal of Machine Learning Research, to appear. **[[arXiv]](https://arxiv.org/abs/2310.01145)**
+
+* \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2024). **_Orthonormal expansions for translation-invariant kernels._** Journal of Approximation Theory. **[[arXiv]](https://arxiv.org/abs/2206.08648) [[DOI]](https://doi.org/10.1016/j.jat.2024.106055)**
 
 * \biblabel{Karvonen2021}{Karvonen et al. (2021)} T. Karvonen, J. Cockayne, **F. Tronarp** and S. Särkkä (2023). **_A probabilistic Taylor expansion with applications in filtering and differential equations_**. Transactions on Machine Learning Research (TMLR). **[[arXiv]](https://arxiv.org/abs/2102.00877)** **[[DOI]](https://openreview.net/pdf?id=2TneniEIDB)**
 
