@@ -9,6 +9,8 @@ tags = ["syntax", "code", "image"]
 
 # Talks
 
+* ProbNum24, London, England, 2024.
+
 * School of Mathematics, Edinburgh University, Edinburgh, Scotland, 2024. 
 
 * Lund Statistics Day, Lund, Sweden, 2024. 
