@@ -9,9 +9,11 @@ tags = ["syntax", "code", "image"]
 
 # Talks
 
-* School of Mathematics, Edinburgh University, Edinburgh, Scotland, 2024. 
+* ProbNum2024, London, England, 2024.
 
-* Lund Statistics Day, Lund, Sweden, 2024. 
+* School of Mathematics, Edinburgh University, Edinburgh, Scotland, 2024.
+
+* Lund Statistics Day, Lund, Sweden, 2024.
 
 * Probabilistic Numerics Spring School, Southampton, England, 2024.
 
