@@ -9,7 +9,7 @@ tags = ["syntax", "code", "image"]
 
 # Talks
 
-* ProbNum2024, London, England, 2024.
+* ProbNum24, London, England, 2024.
 
 * School of Mathematics, Edinburgh University, Edinburgh, Scotland, 2024.
 
