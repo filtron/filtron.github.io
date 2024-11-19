@@ -9,6 +9,10 @@ tags = ["syntax", "code", "image"]
 
 # Talks
 
+* Center for Basic Machine Learning Research in Life Science, Copenhagen, Denmark, 2024.
+
+* Centre for Mathematical Sciences PhD seminar, Lund, Sweden, 2024.
+
 * ProbNum24, London, England, 2024.
 
 * School of Mathematics, Edinburgh University, Edinburgh, Scotland, 2024.
