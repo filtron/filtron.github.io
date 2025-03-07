@@ -10,6 +10,9 @@ tags = ["syntax", "code"]
 
 # Working papers
 
+* \biblabel{Tronarp2025a}{Tronarp (2025a)} **F. Tronarp** (2025). **_The two filter formula reconsidered: Smoothing in partially observed Gauss-Markov models without information parametrization._** **[[arXiv]](https://arxiv.org/abs/2502.21116)**
+
+
 * \biblabel{Tronarp2024a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
 
@@ -51,7 +54,7 @@ tags = ["syntax", "code"]
 
 # Conference papers
 
-* \biblabel{Tronarp2024b}{Tronarp et al. (2024b)} **F. Tronarp** (2024). **_Numerically robust square root implementations of statistical linear regression filters and smoothers._** To appear in 32nd European Signal Processing Conference (EUSIPCO 2024). **[[arXiv]](https://arxiv.org/abs/2406.05188)**
+* \biblabel{Tronarp2024b}{Tronarp et al. (2024b)} **F. Tronarp** (2024). **_Numerically robust square root implementations of statistical linear regression filters and smoothers._** 32nd European Signal Processing Conference (EUSIPCO 2024). **[[arXiv]](https://arxiv.org/abs/2406.05188)**
 
 * \biblabel{Tronarp2023a}{Lahr et al. (2024a)} A. Lahr, **F. Tronarp**, N. Bosch, J. Schmidt, P. Hennig, M. N. Zeilinger (2023). **_Probabilistic ODE Solvers for Integration Error-Aware Model Predictive Control._** The 6th Annual Learning for Dynamics & Control Conference (L4DC), 2024. **[[arXiv]](https://arxiv.org/abs/2401.17731)** **[[DOI]](https://proceedings.mlr.press/v242/lahr24a.html)**
 
