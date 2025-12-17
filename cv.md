@@ -46,6 +46,7 @@
 * Dingling Yao, _Uncertainty Propagation in Probabilistic Ordinary Differential Equation Solvers_, MSc at University of Tübingen.
 * Lingying Jiang, _Implementation of a GPU-Based Kalman Filter in CUDA_, MSc at Aalto University.
 * Siyi Zheng, _Developing a Cloud-based Solution for Cardiographic Data Collection and Processing_, MSc at Aalto University.
+* Caspar Lenner and Willem Berner, _ARMAX-model for prediction of traded volume in cryptocurrencies_, BSc at Lund University. 
 * Samu Kallio, _Mobile orientation tracking with non-linear Kalman filters_, BSc at Aalto University.
 
 ### Thesis examination

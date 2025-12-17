@@ -10,6 +10,7 @@ tags = ["syntax", "code"]
 
 # Working papers
 
+<<<<<<< HEAD
 * \biblabel{Tronarp2025b}{Tronarp (2025)} **Filip Tronarp** (2025). **_A recursive theory of variational state estimation: The dynamic programming approach._** **[[arXiV](https://arxiv.org/abs/2511.11497)]**
 
 * \biblabel{Tronarp2025a}{Tronarp (2025)} **Filip Tronarp** (2025). **_The two filter formula reconsidered: Smoothing in partially observed Gauss-Markov models without information parametrization ._** **[[arXiV](https://arxiv.org/abs/2502.21116)]**
@@ -17,6 +18,10 @@ tags = ["syntax", "code"]
 * \biblabel{Yao2025}{Yao et al. (2025)} Dingling Yao, **Filip Tronarp**, Nathanael Bosch (2025). **_Propagating Model Uncertainty through Filtering-based Probabilistic Numerical ODE Solvers._** **[[arXiV](https://arxiv.org/abs/2503.04684)]**
 
 * \biblabel{Krämer2025a}{Krämer and Tronarp (2025)} Nicholas Krämer and **Filip Tronarp** (2025). **_Numerically robust Gaussian state estimation with singular observation noise._** **[[arXiV](https://arxiv.org/abs/2503.10279)]**
+=======
+* \biblabel{Tronarp2025a}{Tronarp (2025a)} **F. Tronarp** (2025). **_The two filter formula reconsidered: Smoothing in partially observed Gauss-Markov models without information parametrization._** **[[arXiv]](https://arxiv.org/abs/2502.21116)**
+
+>>>>>>> 615f8d37f33863ff1bcd1300cca0aab14c7b341a
 
 * \biblabel{Tronarp2024a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
