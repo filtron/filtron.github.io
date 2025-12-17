@@ -10,14 +10,24 @@ tags = ["syntax", "code"]
 
 # Working papers
 
+* \biblabel{Tronarp2025b}{Tronarp (2025)} **Filip Tronarp** (2025). **_A recursive theory of variational state estimation: The dynamic programming approach._** **[[arXiV](https://arxiv.org/abs/2511.11497)]**
+
+* \biblabel{Tronarp2025a}{Tronarp (2025)} **Filip Tronarp** (2025). **_The two filter formula reconsidered: Smoothing in partially observed Gauss-Markov models without information parametrization ._** **[[arXiV](https://arxiv.org/abs/2502.21116)]**
+
+* \biblabel{Yao2025}{Yao et al. (2025)} Dingling Yao, **Filip Tronarp**, Nathanael Bosch (2025). **_Propagating Model Uncertainty through Filtering-based Probabilistic Numerical ODE Solvers._** **[[arXiV](https://arxiv.org/abs/2503.04684)]**
+
+* \biblabel{Krämer2025a}{Krämer and Tronarp (2025)} Nicholas Krämer and **Filip Tronarp** (2025). **_Numerically robust Gaussian state estimation with singular observation noise._** **[[arXiV](https://arxiv.org/abs/2503.10279)]**
+
 * \biblabel{Tronarp2024a}{Stillfjord et al. (2023a)} T. Stillfjord and **F. Tronarp** (2023). **_Computing the matrix exponential and the Cholesky factor of a related finite horizon Gramian._** **[[arXiv]](https://arxiv.org/abs/2310.13462)**
 
 
-* \biblabel{Subramaniyam2020a}{Subramaniyam et al. (2020a)}  N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2020). **_Joint estimation of neural sources and their functional connections from MEG data._** **[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.10.04.325563v1)**
+
 
 # Journal papers
 
-* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2024). **_Parallel-in-Time Probabililstic Numerical ODE Solvers ._** Journal of Machine Learning Research. **[[arXiv]](https://arxiv.org/abs/2310.01145)** **[[DOI]](https://www.jmlr.org/papers/v25/23-1261.html)**
+* \biblabel{Subramaniyam2025a}{Subramaniyam et al. (2025a)}  N. P. Subramaniyam, **F. Tronarp**, S. Särkkä, and L. Parkkonen (2025). **_Joint estimation of neural sources and their functional connections from MEG data._** **[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.10.04.325563v1)**
+
+* \biblabel{Bosch2023a}{Bosch et al. (2023a)} N. Bosch, A. Corenflos, F. Yaghoobi, **F. Tronarp**, P. Hennig and S. Särkkä (2024). **_Parallel-in-Time Probabililstic Numerical ODE Solvers._** Journal of Machine Learning Research. **[[arXiv]](https://arxiv.org/abs/2310.01145)** **[[DOI]](https://www.jmlr.org/papers/v25/23-1261.html)**
 
 * \biblabel{Tronarp2022a}{Tronarp et al. (2022a)} **F. Tronarp** and T. Karvonen (2024). **_Orthonormal expansions for translation-invariant kernels._** Journal of Approximation Theory. **[[arXiv]](https://arxiv.org/abs/2206.08648) [[DOI]](https://doi.org/10.1016/j.jat.2024.106055)**
 
@@ -51,7 +61,7 @@ tags = ["syntax", "code"]
 
 # Conference papers
 
-* \biblabel{Tronarp2024b}{Tronarp et al. (2024b)} **F. Tronarp** (2024). **_Numerically robust square root implementations of statistical linear regression filters and smoothers._** To appear in 32nd European Signal Processing Conference (EUSIPCO 2024). **[[arXiv]](https://arxiv.org/abs/2406.05188)**
+* \biblabel{Tronarp2024b}{Tronarp et al. (2024b)} **F. Tronarp** (2024). **_Numerically robust square root implementations of statistical linear regression filters and smoothers._** 32nd European Signal Processing Conference (EUSIPCO 2024). **[[arXiv]](https://arxiv.org/abs/2406.05188)**
 
 * \biblabel{Tronarp2023a}{Lahr et al. (2024a)} A. Lahr, **F. Tronarp**, N. Bosch, J. Schmidt, P. Hennig, M. N. Zeilinger (2023). **_Probabilistic ODE Solvers for Integration Error-Aware Model Predictive Control._** The 6th Annual Learning for Dynamics & Control Conference (L4DC), 2024. **[[arXiv]](https://arxiv.org/abs/2401.17731)** **[[DOI]](https://proceedings.mlr.press/v242/lahr24a.html)**
 

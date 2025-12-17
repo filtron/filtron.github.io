@@ -9,6 +9,12 @@ tags = ["syntax", "code", "image"]
 
 # Talks
 
+* Gothenburg statistics seminar, Gothenburg, Sweden, 2025.
+
+* Center for Basic Machine Learning Research in Life Science, Copenhagen, Denmark, 2025.
+
+* SNIPS 2025, Växsjö, Sweden, 2025.
+
 * Center for Basic Machine Learning Research in Life Science, Copenhagen, Denmark, 2024.
 
 * Centre for Mathematical Sciences PhD seminar, Lund, Sweden, 2024.
